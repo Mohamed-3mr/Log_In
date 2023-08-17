@@ -1,0 +1,25 @@
+@media screen and (max-width: 858px) {
+    .img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .screen {
+        position: fixed;
+        height: 100%;
+        width: 100%;
+    }
+
+    .login {
+        width: 362px;
+        padding: 30px;
+        padding-top: 267px;
+    }
+
+    .login_field {
+        padding-bottom: 13px;
+    }
+}
+
+
+@media screen and (max-width: 382px) {}
